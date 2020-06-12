@@ -1,0 +1,14 @@
+﻿  main_blocking.cpp
+  RequestParser.cpp
+  TCPServer.cpp
+c:\users\cooper\source\repos\tcpserver\tcpserver\tcpserver.cpp(236): warning C4838: conversion from 'unsigned __int64' to 'int' requires a narrowing conversion
+c:\users\cooper\source\repos\tcpserver\tcpserver\tcpserver.cpp(236): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cooper\source\repos\tcpserver\tcpserver\tcpserver.cpp(258): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Threadpool.cpp
+c:\users\cooper\source\repos\tcpserver\tcpserver\threadpool.cpp(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1537 of 1537 functions (100.0%) were compiled.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TCPServer.vcxproj -> C:\Users\Cooper\source\repos\TCPServer\x64\Release\TCPServer.exe
